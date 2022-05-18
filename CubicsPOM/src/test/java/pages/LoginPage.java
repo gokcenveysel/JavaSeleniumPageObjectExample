@@ -1,6 +1,5 @@
 package pages;
 
-import utils.logs.JSErrorLogs;
 import utils.logs.Log;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
